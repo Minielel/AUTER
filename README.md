@@ -1,6 +1,6 @@
 # AUTER — Automatisches Terrarium
 
-&gt; **Smarte Hardware- &amp; IoT-Lösung für ein vollautomatisches Terrarium** mit Mikrocontroller-Steuerung (C++), integriertem Bewässerungs-/Drip-System, Sensorik und eigenem Web-Dashboard [1].
+**Smarte Hardware- &amp; IoT-Lösung für ein vollautomatisches Terrarium** mit Mikrocontroller-Steuerung (C++), integriertem Bewässerungs-/Drip-System, Sensorik und eigenem Web-Dashboard
 
 ---
 
@@ -18,16 +18,16 @@
 
 ## Über das Projekt
 
-**AUTER** (Automatisches Terrarium) wurde entwickelt, um Befeuchtung, Belüftung und Beleuchtung in einem geschlossenen Pflanzen-Ökosystem vollständig zu automatisieren [1]. Die Steuerung übernimmt ein C++-basierter Mikrocontroller, welcher die Klimawerte überwacht und Stellglieder wie Sprühdüsen (*Nozzles*) und Lüfter steuert [1].
+**AUTER** (Automatisches Terrarium) wurde entwickelt, um Befeuchtung, Belüftung und Beleuchtung in einem geschlossenen Pflanzen-Ökosystem vollständig zu automatisieren. Die Steuerung übernimmt ein C++-basierter Mikrocontroller, welcher die Klimawerte überwacht und Stellglieder wie Sprühdüsen (*Nozzles*) und Lüfter steuert.
 
 ---
 
 ## Highlights &amp; Specs
 
-- **Automatisierte Befeuchtung:** Tröpfchen- &amp; Düsensystem (*Drip Layer &amp; Nozzle*) für präzise Bewässerung [1].
-- **Web-Dashboard:**Echtzeit-Überwachung und Steuerung der Terrarium-Parameter über ein Web-Interface (`WebDashboard.png`) [1].
-- **Embedded C++ Software:** Performance-optimierte Firmware zur Sensor-Auslesung und Aktor-Steuerung [1].
-- **Modularer CAD-Aufbau:** Maßgeschneiderte 3D-Druck-Ebenen für Technik, Düsen und Gehäusedeckel [1].
+- **Automatisierte Befeuchtung:** Tröpfchen- &amp; Düsensystem (*Drip Layer &amp; Nozzle*) für präzise Bewässerung.
+- **Web-Dashboard:** Echtzeit-Überwachung und Steuerung der Terrarium-Parameter über ein Web-Interface (`WebDashboard.png`).
+- **Embedded C++ Software:** Performance-optimierte Firmware zur Sensor-Auslesung und Aktor-Steuerung.
+- **Modularer CAD-Aufbau:** Maßgeschneiderte 3D-Druck-Ebenen für Technik, Düsen und Gehäusedeckel.
 
 ---
 
@@ -48,16 +48,16 @@ Die mechanischen Komponenten sind modular aufgebaut und als `.step`- sowie `.stl
 
 | Baugruppe | Funktion / Beschreibung | Dateiformate |
 | :--- | :--- | :--- |
-| **AUTER Deckel** | Hauptabdeckung mit integrierten Lüftungsauslässen | `.step` / `.stl` / `.png` [1] |
-| **Tech Layer 1 &amp; 2** | Zweistufige Halterung für Sensorik, Controller &amp; Verkabelung | `.step` / `.stl` / `.png` [1] |
-| **Drip Layer** | Verteiler-Ebene für die gleichmäßige Bewässerung | `.step` / `.stl` / `.png` [1] |
-| **Nozzle (Düse)** | Passgenaue Sprühdüsen-Halterung für den Innenraum | `.step` / `.stl` / `.png` [1] |
+| **AUTER Deckel** | Hauptabdeckung mit integrierten Lüftungsauslässen | `.step` / `.stl` / `.png` |
+| **Tech Layer 1 &amp; 2** | Zweistufige Halterung für Sensorik, Controller &amp; Verkabelung | `.step` / `.stl` / `.png` |
+| **Drip Layer** | Verteiler-Ebene für die gleichmäßige Bewässerung | `.step` / `.stl` / `.png` |
+| **Nozzle (Düse)** | Passgenaue Sprühdüsen-Halterung für den Innenraum | `.step` / `.stl` / `.png` |
 
 ---
 
 ## Software &amp; Web-Dashboard
 
-Die Firmware ist komplett in **C++** geschrieben [1]. Sie liest die Sensordaten aus und kommuniziert mit dem **Web-Dashboard**, über das Grenzwerte angepasst und manuelle Schaltungen vorgenommen werden können (`WebDashboard.png`) [1].
+Die Firmware ist komplett in **C++** geschrieben. Sie liest die Sensordaten aus und kommuniziert mit dem **Web-Dashboard**, über das Grenzwerte angepasst und manuelle Schaltungen vorgenommen werden können (`WebDashboard.png`).
 
 ---
 
@@ -97,6 +97,6 @@ Die Firmware ist komplett in **C++** geschrieben [1]. Sie liest die Sensordaten 
 
 ## Autor
 
-**Daniel Fast** ([@Minielel](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fgithub.com%2FMinielel))[3]
+**Daniel Fast** ([@Minielel](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fgithub.com%2FMinielel))
 
 * **Portfolio:** [daniel-fast.de](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fwww.daniel-fast.de)
