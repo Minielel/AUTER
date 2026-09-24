@@ -67,7 +67,7 @@ Die Firmware ist komplett in **C++** geschrieben [1]. Sie liest die Sensordaten 
 
 *Gesamtaufbau des automatischen Terrariums.*
 
-![VasenTerrarium](AUTER_Vase_1.png)
+![VasenTerrarium](AUTER_Vase_1.jpeg)
 
 *Impressionen des Terrariums und der Pflanzen-Vase.*
 
